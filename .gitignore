@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__
+input
+training_data
+venv
+tensorflow-for-poets-2/test_data
+tensorflow-for-poets-2/tf_files
