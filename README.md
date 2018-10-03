@@ -12,10 +12,6 @@ source venv/bin/activate
 pip install opencv-python
 pip install --upgrade tensorflow
 pip install pandas
-pip install jupyter
-pip install IPython
-pip install matplotlib
-pip install scikitlearn
 
 pip install youtube-dl
 
